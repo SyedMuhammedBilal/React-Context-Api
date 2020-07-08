@@ -6,6 +6,7 @@ export default function Child(props) {
 
     return (
         <div>
+            <h2>Using Context API</h2>
             <h2>
                 Counter value is: {counterValue}
             </h2>
